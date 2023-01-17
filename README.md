@@ -22,7 +22,7 @@ Professor de TI no SENAI - Blumenau.
 Especialista em Tecnologia da Informação na Gestão de Negócios.
 Mais de 35 anos de vivência em Tecnologia da Informação.
 Pós-graduado em Tecnologia da Informação na Gestão de Negócios.
-Pós-graduando em Gestão Educacional.
+Pós-graduado em Gestão Educacional.
 Pós-graduando em Desenvolvimento de Sistemas em JAVA.
 Em processo de Certificação em JAVA.
 ---

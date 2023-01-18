@@ -7,7 +7,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Projetos em Java Web 🚀 🚧
+	🚧  Projetos para os meus alunos 🚀 🚧
 </h4>
 
 <p align="center">
@@ -19,12 +19,11 @@
 ## 💻 Sobre 
 
 Professor de TI no SENAI - Blumenau.
-Especialista em Tecnologia da Informação na Gestão de Negócios.
-Mais de 35 anos de vivência em Tecnologia da Informação.
-Pós-graduado em Tecnologia da Informação na Gestão de Negócios.
-Pós-graduado em Gestão Educacional.
-Pós-graduando em Desenvolvimento de Sistemas em JAVA.
-Em processo de Certificação em JAVA.
+Atualmente ministro disciplinas como:
+Lógica Computacional
+Fundamentos de Banco de Dados
+Fundamentos de Redes
+
 ---
 
 ## 🛠 Tecnologias

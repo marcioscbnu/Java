@@ -29,15 +29,13 @@ Lógica Computacional, Fundamentos de Banco de Dados, Fundamentos de Redes, Prog
 Utilizo as seguintes ferramentas para ensino:
 
 #### ** LÓGICA DE PROGRAMAÇÃO            ** ([VisualG]()  +  [Portugol Studio](http://lite.acad.univali.br/portugol/))
-#### ** BANCOS DE DADOS                  ** ([ORACLE](https://www.oracle.com/br/) + [MySQL](https://www.mysql.com) + [PostgreSQL](https://www.postgresql.org/) + [SQLServer](https://www.microsoft.com/pt-br/sql-server/))
-#### ** BUSINESS INTELLIGENCE            ** ([Microsoft Power BI](https://powerbi.microsoft.com/pt-br/))
-#### ** BUSINESS PROCESS MANAGEMENT      ** ([Bizagi](https://www.bizagi.com/pt) ) + [MindJet MindManager](https://www.mindmanager.com/en/))
-#### ** LINGUAGENS DE PROGRAMAÇÃO        **
-#### ** LINGUAGENS DE FORMATAÇÃO         ** ([HTML5] + [CSS3] (https://www.w3c.br/Cursos/CursoCSS3/) + [BOOTSTRAP](https://getbootstrap.com/))
-#### ** FRAMEWORKS                       ** ([APACHE NETBEANS](https://netbeans.apache.org/) + [ECLIPSE](https://www.eclipse.org/downloads/) + [INTELLIJ](https://www.jetbrains.com/pt-br/idea/))
-#### ** ROBÓTICA                         ** ([ARDUINO](https://www.arduino.cc/))
 #### ** REDES DE COMPUTADORES            ** ([CISCO PACKET TRACER](https://www.netacad.com/pt-br/courses/packet-tracer))
-#### ** RPA - ROBOTIC PROCESS AUTOMATION ** ([UIPATH](https://www.uipath.com/pt/))
 
+#### ** BANCOS DE DADOS                  ** ([ORACLE](https://www.oracle.com/br/) + [MySQL](https://www.mysql.com) + [PostgreSQL](https://www.postgresql.org/) 
+#### ** BUSINESS INTELLIGENCE            ** ([Microsoft Power BI](https://powerbi.microsoft.com/pt-br/))
+#### ** BUSINESS PROCESS MANAGEMENT      ** ([Bizagi](https://www.bizagi.com/pt))
+
+#### ** FRAMEWORKS                       ** ([APACHE NETBEANS](https://netbeans.apache.org/) + [ECLIPSE](https://www.eclipse.org/downloads/)
+#### ** INTERNET DAS COISAS              ** ([ARDUINO](https://www.arduino.cc/)  [TINKERCAD](https://www.tinkercad.com/)  )
 
 

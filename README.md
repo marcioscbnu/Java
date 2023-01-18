@@ -1,11 +1,3 @@
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marciosc/README-ecoleta?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcioscbnu/README.md">
-  <a href="https://github.com/README.md/README.md/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcioscbnu/README.md">
-  </a>
-</p>
-
 <h4 align="center"> 
 	🚧  Projetos para os meus alunos 🚀 🚧
 </h4>

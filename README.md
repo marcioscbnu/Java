@@ -20,9 +20,7 @@
 
 Professor de TI no SENAI - Blumenau.
 Atualmente ministro disciplinas como:
-Lógica Computacional
-Fundamentos de Banco de Dados
-Fundamentos de Redes
+Lógica Computacional, Fundamentos de Banco de Dados, Fundamentos de Redes, Programação de Aplicativos e Desenvolvimento de Sistemas.
 
 ---
 

@@ -33,7 +33,7 @@ Utilizo as seguintes ferramentas para ensino:
 #### ** BUSINESS INTELLIGENCE            ** ([Microsoft Power BI](https://powerbi.microsoft.com/pt-br/))
 #### ** BUSINESS PROCESS MANAGEMENT      ** ([Bizagi](https://www.bizagi.com/pt) ) + [MindJet MindManager](https://www.mindmanager.com/en/))
 #### ** LINGUAGENS DE PROGRAMAÇÃO        **
-#### ** LINGUAGENS DE FORMATAÇÃO         ** ([HTML5] + [CSS3] + [BOOTSTRAP](https://getbootstrap.com/))
+#### ** LINGUAGENS DE FORMATAÇÃO         ** ([HTML5] + [CSS3] (https://www.w3c.br/Cursos/CursoCSS3/) + [BOOTSTRAP](https://getbootstrap.com/))
 #### ** FRAMEWORKS                       ** ([APACHE NETBEANS](https://netbeans.apache.org/) + [ECLIPSE](https://www.eclipse.org/downloads/) + [INTELLIJ](https://www.jetbrains.com/pt-br/idea/))
 #### ** ROBÓTICA                         ** ([ARDUINO](https://www.arduino.cc/))
 #### ** REDES DE COMPUTADORES            ** ([CISCO PACKET TRACER](https://www.netacad.com/pt-br/courses/packet-tracer))
